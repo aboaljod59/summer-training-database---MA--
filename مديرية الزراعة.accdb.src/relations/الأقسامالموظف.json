@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "الأقسامالموظف",
+    "Attributes": 3,
+    "Table": "الأقسام",
+    "ForeignTable": "الموظف",
+    "Fields": [
+      {
+        "Name": "الرمز الوظيفي للقسم",
+        "ForeignName": "الرمز الوظيفي"
+      }
+    ]
+  }
+}

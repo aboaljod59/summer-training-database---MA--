@@ -1,0 +1,62 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "11/09/22 12:49:10 م",
+    "FullExportDate": "11/09/22 12:44:45 م",
+    "OptionsHash": "235c8da",
+    "LastMergedCommit": "",
+    "Components": {
+      "Project": {
+        "project.json": {
+          "Hash": "19c3478",
+          "ExportDate": "11/09/22 12:49:09 م",
+          "SourceModified": "11/09/22 12:44:43 م",
+          "FilePropertiesHash": "ef06520"
+        }
+      },
+      "Tables": {
+        "الأقسام.xml": {
+          "ExportDate": "11/09/22 12:44:44 م",
+          "SourceModified": "11/09/22 12:44:43 م",
+          "FilePropertiesHash": "0e60095"
+        },
+        "الموظف.xml": {
+          "ExportDate": "11/09/22 12:44:44 م",
+          "SourceModified": "11/09/22 12:44:44 م",
+          "FilePropertiesHash": "8ba5e16"
+        },
+        "بيانات قسم الاتصالات الإدارية.xml": {
+          "ExportDate": "11/09/22 12:44:45 م",
+          "SourceModified": "11/09/22 12:44:45 م",
+          "FilePropertiesHash": "011774b"
+        },
+        "بيانات قسم الإداري.xml": {
+          "ExportDate": "11/09/22 12:44:44 م",
+          "SourceModified": "11/09/22 12:44:44 م",
+          "FilePropertiesHash": "0880dc6"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "Hash": "fdf263b",
+          "ExportDate": "11/09/22 12:49:09 م",
+          "SourceModified": "11/09/22 12:44:43 م",
+          "FilePropertiesHash": "4d4415d"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "Hash": "9c1a988",
+          "ExportDate": "11/09/22 12:49:09 م",
+          "SourceModified": "11/09/22 12:44:43 م",
+          "FilePropertiesHash": "68c0e80"
+        }
+      }
+    }
+  }
+}

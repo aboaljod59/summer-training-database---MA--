@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "الأقسامبيانات قسم الإداري",
+    "Attributes": 3,
+    "Table": "الأقسام",
+    "ForeignTable": "بيانات قسم الإداري",
+    "Fields": [
+      {
+        "Name": "الرمز الوظيفي للقسم",
+        "ForeignName": "رمز البيان"
+      }
+    ]
+  }
+}
